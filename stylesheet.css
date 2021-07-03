@@ -80,6 +80,7 @@ margin-left: 440px;
 }
 .head2{
   color: black;
+  background: salmon;
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
   font-size: 50px;
@@ -89,9 +90,10 @@ margin-left: 440px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap;
+  background: salmon;
 }
 .card{
-  background-color:salmon;
+  background-color:rgb(156, 80, 72);
   width: 270px;
   margin: 10px;
   margin-top: 20px;
@@ -138,6 +140,7 @@ margin-left: 440px;
   transition: all 1s ease;
 }
 .head3{
+  background: salmon;
   color: black;
   text-transform: uppercase;
   font-family: "Roboto", sans-serif;
@@ -148,6 +151,7 @@ margin-left: 440px;
   display: flex;
   justify-content: center;
   flex-wrap: wrap; 
+  background: salmon;
 }
 .cont p{
 text-align: center;
